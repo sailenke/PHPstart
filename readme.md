@@ -1,5 +1,5 @@
 
-h3. My test project
+### My test project
 
 Blog engine to add, edit and delete articles and add/delete images for these articles.
 Technologies used:
